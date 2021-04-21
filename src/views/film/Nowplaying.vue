@@ -6,6 +6,7 @@
         <img :src="item.poster"/>
         <h3>{{item.name}}</h3>
         <p>{{item.actors}}</p>
+        <p>{{item.category}}</p>
       </li>
     </ul>
   </div>
